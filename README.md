@@ -2,19 +2,13 @@
 
 ![Masterhead](https://pbs.twimg.com/media/FNVyspAXwAEHS6X?format=jpg&name=900x900)
 
-
 <p align="center">
 <a title="Sidiqprmn's GitHub followers " href="https://github.com/sidiqprmn" ><img src="https://img.shields.io/github/followers/sidiqprmn?style=social" alt="sidiqprmn's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/sidiqprmn" ><img src="https://img.shields.io/github/stars/sidiqprmn?style=social" alt="sidiqprmn's GitHub stars "></a>
 <a title="sidiqprmn's profile views " href="https://github.com/sidiqprmn" ><img src="https://komarev.com/ghpvc/?username=sidiqprmn&label=Profile%20views" alt="sidiqprmn's profile views"></a>
 
-#
 
-
-
-## About Me
-
-
+##
 
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -81,14 +75,24 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+## 
+```
+ ________  __        __                  __                   ______   __        __  __                                                               ______   __    __      __                  __       
+|        \|  \      |  \                |  \                 /      \ |  \      |  \|  \                                                             /      \ |  \  |  \    |  \                |  \      
+ \$$$$$$$$| $$____   \$$  _______        \$$  _______       |  $$$$$$\ \$$  ____| $$ \$$  ______    ______    ______   ______ ____   _______        |  $$$$$$\ \$$ _| $$_   | $$____   __    __ | $$____  
+   | $$   | $$    \ |  \ /       \      |  \ /       \      | $$___\$$|  \ /      $$|  \ /      \  /      \  /      \ |      \    \ |       \       | $$ __\$$|  \|   $$ \  | $$    \ |  \  |  \| $$    \ 
+   | $$   | $$$$$$$\| $$|  $$$$$$$      | $$|  $$$$$$$       \$$    \ | $$|  $$$$$$$| $$|  $$$$$$\|  $$$$$$\|  $$$$$$\| $$$$$$\$$$$\| $$$$$$$\      | $$|    \| $$ \$$$$$$  | $$$$$$$\| $$  | $$| $$$$$$$\
+   | $$   | $$  | $$| $$ \$$    \       | $$ \$$    \        _\$$$$$$\| $$| $$  | $$| $$| $$  | $$| $$  | $$| $$   \$$| $$ | $$ | $$| $$  | $$      | $$ \$$$$| $$  | $$ __ | $$  | $$| $$  | $$| $$  | $$
+   | $$   | $$  | $$| $$ _\$$$$$$\      | $$ _\$$$$$$\      |  \__| $$| $$| $$__| $$| $$| $$__| $$| $$__/ $$| $$      | $$ | $$ | $$| $$  | $$      | $$__| $$| $$  | $$|  \| $$  | $$| $$__/ $$| $$__/ $$
+   | $$   | $$  | $$| $$|       $$      | $$|       $$       \$$    $$| $$ \$$    $$| $$ \$$    $$| $$    $$| $$      | $$ | $$ | $$| $$  | $$       \$$    $$| $$   \$$  $$| $$  | $$ \$$    $$| $$    $$
+    \$$    \$$   \$$ \$$ \$$$$$$$        \$$ \$$$$$$$         \$$$$$$  \$$  \$$$$$$$ \$$  \$$$$$$$| $$$$$$$  \$$       \$$  \$$  \$$ \$$   \$$        \$$$$$$  \$$    \$$$$  \$$   \$$  \$$$$$$  \$$$$$$$ 
+                                                                                              | $$| $$                                                                                                    
+                                                                                              | $$| $$                                                                                                    
+                                                                                               \$$ \$$                                                                                                    
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.instagram.com/massidiq._/" target="blank"><img align="center" src="image/ig.png" alt="instagram" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sidiq-pramono-09766a268" target="blank"><img align="center" src="image/linkedin.png" alt="linkedin" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/6283156680848" target="blank"><img align="center" src="image/wa.png" alt="whatsapp" width="40" /></a>
-</p>
 
+```
+##
 
 ## Asynchronous Memories
 ```function mengelolaHubungan($status, $orang) {
@@ -125,3 +129,10 @@
 mengelolaHubungan("bersama", "dirimu");
 echo "Jangan Terlalu Berharap.";
 ```
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.instagram.com/massidiq._/" target="blank"><img align="center" src="image/ig.png" alt="instagram" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sidiq-pramono-09766a268" target="blank"><img align="center" src="image/linkedin.png" alt="linkedin" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/6283156680848" target="blank"><img align="center" src="image/wa.png" alt="whatsapp" width="40" /></a>
+</p>
