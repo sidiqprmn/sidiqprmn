@@ -1,11 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=57&color=F7F7F7&center=true&vCenter=true&width=1500&lines=Welcome+to+My+Github;Hi%2C+i'm+Sidiq+pramono!+Nice+to+meet+you" alt="Typing SVG" /></a>
 
-# My Profile
-
-<div align="center">
-  <img src="https://i.ibb.co/pQ64ks8/ssid-Wk7ojbvdc-3.webp" alt="Profile Image" style="width: 100%; height: auto;">
-</div>
-
+![Masterhead](https://pbs.twimg.com/media/FNVyspAXwAEHS6X?format=jpg&name=900x900)
 
 
 <p align="center">
