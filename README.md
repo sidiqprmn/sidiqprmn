@@ -19,13 +19,11 @@
 
 <h4 align="center">A student majoring in Software Engineering, actively involved in multiple website development and testing projects.</h4> 
 
-- 🔭 I’m currently working on [Project Musivo](https://github.com/Project-Musivo/KELOMPOK2-Project-MUSIVO)
+- 🌱 I’m currently learning **FrontEnd, BackEnd development & Big Data Science**
 
-- 🌱 I’m currently learning **BackEnd development & Ethical Hacking**
+- 👨‍💻 All of my projects are available at [Github](github.com/sidiqprmns)
 
-- 👨‍💻 All of my projects are available at [sidiqpramono.my.id](sidiqpramono.my.id)
-
-- 💬 Ask me about **Laravel, React, & Express**
+- 💬 Ask me about **Web Development && Linux**
 
 - 📫 How to reach me **sidiqpramonojati@gmail.com**
 
