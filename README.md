@@ -2,10 +2,6 @@
 
 ![Masterhead](https://pbs.twimg.com/media/FNVyspAXwAEHS6X?format=jpg&name=900x900)
 
-
-
-
-
 <p align="center">
 <a title="Sidiqprmn's GitHub followers " href="https://github.com/sidiqprmn" ><img src="https://img.shields.io/github/followers/sidiqprmn?style=social" alt="sidiqprmn's GitHub followers"></a>
 <a title="GitHub stars " href="https://github.com/sidiqprmn" ><img src="https://img.shields.io/github/stars/sidiqprmn?style=social" alt="sidiqprmn's GitHub stars "></a>
@@ -64,6 +60,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
