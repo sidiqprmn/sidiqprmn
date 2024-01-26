@@ -121,7 +121,7 @@
     }
 
     if ($status == "bersama" && $orang == "dirimu") {
-        echo "Hargai dan hargailah orang tersebut jika dia memilih untuk tetap bersamamu.";
+        echo "****** *** ***** ****** ** **** ****** *******.";
         $sql = "DELETE FROM otak WHERE kenangan = 'bersamanya' AND itu_menyakitkan";
         if ($conn->query($sql) === TRUE) {
             echo "Kenangan berhasil dihapus dari kenangan_kita.";
@@ -129,7 +129,7 @@
             echo "Terjadi kesalahan saat menghapus kenangan: " . $conn->error;
         }
     } elseif ($status == "bersama" && $orang != "dirimu") {
-        echo "Cari orang lain untuk menggantikannya, karena kamu pantas mendapatkan yang lebih baik!";
+        echo "***  ***** ***** ** ***** **** ****** ** ***** ******** **** *********!";
         $sql = "INSERT INTO otak (kenangan) VALUES ('bersama_orang_baru') IF itu_lebih_menyenangkan";
         if ($conn->query($sql) === TRUE) {
             echo "Kenangan berhasil ditambahkan ke kenangan_kita.";
