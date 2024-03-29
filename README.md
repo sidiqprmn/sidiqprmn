@@ -107,39 +107,3 @@
 
 
 ##
-
-## Our Memories
-```function mengelolaHubungan($status, $orang) {
-    $username = "My_name";
-    $password = "Your_namee";
-    $dbname = "Our_memories";
-
-    $conn = new mysqli($username, $password, $dbname);
-
-    if ($conn->connect_error) {
-        die("Koneksi ke kenangan gagal: " . $conn->connect_error);
-    }
-
-    if ($status == "bersama" && $orang == "dirimu") {
-        echo "****** *** ***** ****** ** **** ****** *******.";
-        $sql = "DELETE FROM otak WHERE kenangan = 'bersamanya' AND itu_menyakitkan";
-        if ($conn->query($sql) === TRUE) {
-            echo "Kenangan berhasil dihapus dari kenangan_kita.";
-        } else {
-            echo "Terjadi kesalahan saat menghapus kenangan: " . $conn->error;
-        }
-    } elseif ($status == "bersama" && $orang != "dirimu") {
-        echo "***  ***** ***** ** ***** **** ****** ** ***** ******** **** *********!";
-        $sql = "INSERT INTO otak (kenangan) VALUES ('bersama_orang_baru') IF itu_lebih_menyenangkan";
-        if ($conn->query($sql) === TRUE) {
-            echo "Kenangan berhasil ditambahkan ke kenangan_kita.";
-        } else {
-            echo "Terjadi kesalahan saat menambahkan kenangan: " . $conn->error;
-        }
-    } 
-    $conn->close();
-}
-
-mengelolaHubungan("bersama", "dirimu");
-echo "Jangan Terlalu Berharap.";
-```
