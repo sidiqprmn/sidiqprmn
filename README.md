@@ -11,22 +11,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidiqprmn" alt="sidiqprmn" /></a> </p>
 
 ## 
-
-
-
-##  About Me?
-
-<h4 align="center">A student majoring in Software Engineering, actively involved in multiple website development and testing projects.</h4> 
-
-- 🌱 I’m currently learning **FrontEnd, BackEnd development & Big Data Science**
-
-- 👨‍💻 All of my projects are available at [Github](github.com/sidiqprmns)
-
-- 💬 Ask me about **Web Development && Linux Distro's**
-
-- 📫 How to reach me **sidiqpramonojati@gmail.com**
-
-- ⚡ Fun fact **I prefer to spend time learning new things, rather than doing assignments**
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
